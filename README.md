@@ -24,3 +24,7 @@ Tested on both Windows 10 and Windows 11.
 | 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
 </p>
 
+
+<h2>Popsułam ci readme</h2>
+
+Ale robie teścik
